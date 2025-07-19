@@ -20,7 +20,7 @@ QUICK START
 
 1. Clone the Dojo
 ```
-git clone https://github.com/AIwithhassan/newsninja.git
+git clone https://github.com/Prashanth1607/NewsNinja.git
 cd NewsNinja
 ```
 
