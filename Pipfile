@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+langchain-anthropic = "*"
+fastapi = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+google-generativeai = "*"
+elevenlabs = "*"
+aiolimiter = "*"
+langgraph = "*"
+mcp = "*"
+langchain-mcp-adapters = "*"
+gtts = "*"
+anthropic = "*"
+langchain-google-genai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
